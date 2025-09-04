@@ -3,11 +3,11 @@ title: "[Network] Packet"
 excerpt: "Pack it!"
 
 categories:
-  - Categories1
+  - Network   
 tags:
-  - [tag1, tag2]
+  - [네트워크, 패킷]
 
-permalink: /categories1/post-name-here/
+permalink: /network/post-name-here/
 
 toc: true
 toc_sticky: true

@@ -1,11 +1,11 @@
 ---
-title: "[Network] Packet"
-excerpt: "Pack it!"
+title: "[Network] 공인 IP & 사설 IP"
+excerpt: "hIP hIP"
 
 categories:
-  - Categories1
+  - Network   
 tags:
-  - [tag1, tag2]
+  - [네트워크, IP주소]
 
 permalink: /categories1/post-name-here/
 

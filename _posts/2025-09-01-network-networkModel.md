@@ -3,11 +3,11 @@ title: "[Network] OSI 7계층 & TCP/IP 4계층"
 excerpt: "Please Do Not Throw Sausage Pizza Away!"
 
 categories:
-  - Categories1
+  - Network   
 tags:
-  - [tag1, tag2]
+  - [네트워크]
 
-permalink: /categories1/post-name-here/
+permalink: /network/osi-tcpip/
 
 toc: true
 toc_sticky: true
