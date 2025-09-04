@@ -12,8 +12,8 @@ permalink: /categories1/post-name-here/
 toc: true
 toc_sticky: true
 
-date: 2025-09-03
-last_modified_at: 2025-09-4
+date: 2025-09-01
+last_modified_at: 2025-09-01
 ---
 
 ## OSI Model (Open Systems Interconnection)

@@ -12,8 +12,8 @@ permalink: /categories1/post-name-here/
 toc: true
 toc_sticky: true
 
-date: 2025-09-03
-last_modified_at: 2025-09-4
+date: 2025-09-02
+last_modified_at: 2025-09-02
 ---
 ## 1. 패킷(Packet)이란?
 : 네트워크에서 **데이터를 전송할 때 잘게 쪼갠 작은 단위**
