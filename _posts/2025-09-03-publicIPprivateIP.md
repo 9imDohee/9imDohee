@@ -7,7 +7,7 @@ categories:
 tags:
   - [네트워크, IP주소]
 
-permalink: /categories1/post-name-here/
+permalink: /network/ipaddress/
 
 toc: true
 toc_sticky: true

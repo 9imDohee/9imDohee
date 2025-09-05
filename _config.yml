@@ -15,7 +15,7 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "air" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
@@ -102,7 +102,7 @@ author:
   avatar: "/assets/images/mee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
-  email            : "kdhwh09@gmail.com"
+  # email            : "kdhwh09@gmail.com"
 
   links: # 사이트 링크
     - label: "Email"
@@ -119,7 +119,8 @@ author:
 #       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      # url: "https://github.com/" 여기 수정
+      url: "http://localhost:4000"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"

@@ -5,5 +5,5 @@ permalink: /categories/network/
 author_profile: true
 taxonomy: Network
 sidebar:
-  nav: "categories"
+ - nav: "categories"
 ---
