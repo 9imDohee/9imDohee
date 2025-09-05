@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://9imdohee.github.io/9imDohee_til/
+    url: https://9imdohee.github.io
 
   - title: "About"
     url: /about/
@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Categories1"
-    url: /categories/categories1/
+    url: /categories/network/
   - title: "Categories2"
     url: /categories/categories2/
   - title: "Categories3"
